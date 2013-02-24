@@ -1,4 +1,4 @@
-#Node Server (Express 3.0.1) and Socket.io Bootstrap
+#Node (Express 3.0.1) and Socket.io Server Bootstrap
 =====================
 
 ##Usage

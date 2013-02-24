@@ -3,7 +3,7 @@
 $(document).ready(function() {
 
 
- var socket = io.connect('http://localhost');
+ var socket = io.connect(window.location.hostname);
   
  //Receives the server event and logs the message
   socket.on('my server event', function (data) {

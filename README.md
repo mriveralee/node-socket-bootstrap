@@ -1,4 +1,8 @@
-node-socket-bootstrap
+#Node (Express 3.0.1) and Socket.io Server Bootstrap
 =====================
 
-Quick Server Setup for Node (Express 3.0.1) and Socket.io. Comes with Sockets already working
+##Usage
+* Clone this repository.
+* Run `npm install` in the clone directory 
+* Run `node app.js`
+* Go to http://localhost:8000 to see the magic
